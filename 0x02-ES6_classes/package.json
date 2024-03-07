@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My project description",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0",
+    "@babel/preset-react": "^7.18.0",
+    "@babel/preset-typescript": "^7.18.0",
+    "babel-jest": "^27.5.1",
+    "eslint": "^8.10.0",
+    "eslint-plugin-jest": "^26.0.1",
+    "eslint-plugin-react": "^7.28.0",
+    "jest": "^27.5.1"
+  }
+}
